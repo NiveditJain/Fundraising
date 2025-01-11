@@ -15,3 +15,4 @@ This repository has socials and other public information about prominent startup
 |Sandeep Nailwal||https://x.com/sandeepnailwal||Angel Investor|
 |Binny Bansal|https://www.linkedin.com/in/binnybansal/|https://x.com/binnybansal||Angel Investor|
 |Vijay Shekhar Sharma|https://www.linkedin.com/in/vijayshekhar/|https://x.com/vijayshekhar||Angel Investor|
+|Nithin Kamath|https://linkedin.com/in/nithin-kamath-81136242/|https://x.com/Nithin0dha||Angel Investor|
