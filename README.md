@@ -10,3 +10,8 @@ This repository has socials and other public information about prominent startup
 |Auren Hoffman|https://www.linkedin.com/in/auren/|https://x.com/Auren||Angel Investor|
 |Avichal Garg|https://www.linkedin.com/in/avichalgarg/|https://x.com/avichal||Angel Investor|
 |Clark Landry|https://www.linkedin.com/in/clarklandry/|||Angel Investor|
+|Nitish Mittersain|https://www.linkedin.com/in/mittersain/|https://x.com/mittersain||Angel Investor|
+|Varun Alagh|https://www.linkedin.com/in/varunalagh84/|https://x.com/VarunAlagh||Angel Investor|
+|Sandeep Nailwal||https://x.com/sandeepnailwal||Angel Investor|
+|Binny Bansal|https://www.linkedin.com/in/binnybansal/|https://x.com/binnybansal||Angel Investor|
+|Vijay Shekhar Sharma|https://www.linkedin.com/in/vijayshekhar/|https://x.com/vijayshekhar||Angel Investor|
